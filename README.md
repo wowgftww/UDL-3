@@ -1,3 +1,11 @@
+## کد فعالسازی
+
+برای دریافت کد فعالسازی دائمی این دانلودر پرداخت زیر را انجام دهید تا کد برای شما نمایش داده شود و سپس کد را در بخش کدفعالسازی وارد کنید . توجه کنید که یک کد برای فعالسازی دائمی این پروژه کافیست
+
+🔗 https://pay.avasam.ir/link/769584
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/nikzad-avasam/notifications/refs/heads/main/assets/download-icon.gif" width="400" alt="wide-2" />
 </div>
